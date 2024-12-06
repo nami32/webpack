@@ -1,0 +1,10 @@
+.button {
+    color: red;
+    display: inline-block;
+    background: blue;
+    padding: 20px 50px;
+    &:hover {
+      opacity: 0.7;
+    }
+  }
+

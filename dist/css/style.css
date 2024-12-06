@@ -1,0 +1,12 @@
+/*!*********************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/stylesheets/style.scss ***!
+  \*********************************************************************************************************************/
+.button {
+  color: red;
+  display: inline-block;
+  background: blue;
+  padding: 20px 50px;
+}
+.button:hover {
+  opacity: 0.7;
+}
